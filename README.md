@@ -1,1 +1,1 @@
-# CodeClauseInternship_Movie-recommendation-System
+A Recommendation System is a filtration program whose prime goal is to predict a user’s “rating” or “preference” towards a domain-specific item or item. In our case, this domain-specific item is a movie. Therefore the main focus of our recommendation system is to filter and predict only those movies which a user would prefer given some data about the user him or herself.
